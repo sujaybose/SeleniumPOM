@@ -1,0 +1,6 @@
+com\brainware\qa\testcases\ProcessignSettingsTest.class
+com\brainware\qa\util\DataOp.class
+com\brainware\qa\testcases\AmountSettingsTest.class
+com\brainware\qa\util\ReadWriteData.class
+com\brainware\qa\testcases\configurePageTest.class
+com\brainware\qa\testcases\LoginPageTest.class

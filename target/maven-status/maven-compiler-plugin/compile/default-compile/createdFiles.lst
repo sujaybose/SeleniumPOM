@@ -1,0 +1,16 @@
+com\brainware\qa\util\JavaScriptUtil.class
+com\brainware\qa\pages\ConfigurePage.class
+com\brainware\qa\util\TestUtil.class
+com\brainware\qa\util\ConnectSQL.class
+com\brainware\qa\util\PopUpHandle.class
+com\brainware\qa\base\TestBase.class
+com\brainware\qa\pages\ProcessingSettings.class
+com\brainware\qa\pages\TasksPage.class
+com\brainware\qa\util\Xls_Reader.class
+com\brainware\qa\util\ReadWriteExcel.class
+com\brainware\qa\util\ExplicitWait.class
+com\brainware\qa\pages\LoginPage.class
+com\brainware\qa\util\WebEventListener.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\brainware\qa\pages\AmountSettings.class
+com\brainware\qa\pages\SignUpPage.class
